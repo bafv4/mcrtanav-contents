@@ -13,4 +13,4 @@ tags: []
 - かきくけこさし
 - すせそたち
 
-![イメージ](../../images/background.png)
+![イメージ](images/background.png)
