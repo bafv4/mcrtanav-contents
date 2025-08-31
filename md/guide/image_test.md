@@ -1,7 +1,9 @@
 ---
 title: '画像付きマークダウンの表示テスト'
-description: 'ほげ'
-tags: []
+description: '画像付きマークダウンの表示テスト用のサンプルです。'
+tags: ['テスト']
+author: 'bafv4'
+date: '2025-08-31'
 ---
 
 [リンク](https://www.google.com)
