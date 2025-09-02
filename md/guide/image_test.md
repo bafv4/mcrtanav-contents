@@ -17,3 +17,5 @@ date: '2025-08-31'
 - すせそたち
 
 ![イメージ](images/background.png)
+
+![Minecraft ロゴ](https://static.cdnlogo.com/logos/m/29/minecraft.png)
