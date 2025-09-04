@@ -12,6 +12,29 @@
         "by": "bafv4",
         "at": "2025-09-04T12:02:33.226Z"
       }
+    },
+    {
+      "path": "template.md",
+      "type": "md",
+      "title": "template",
+      "description": "",
+      "order": 999,
+      "tag": [],
+      "version": [
+        {
+          "edition": "java",
+          "pattern": "range",
+          "versions": [
+            "1.16.1",
+            "1.17.1"
+          ],
+          "display": ""
+        }
+      ],
+      "lastUpdate": {
+        "by": "bafv4",
+        "at": "2025-09-04T12:39:03.967Z"
+      }
     }
   ]
 }
