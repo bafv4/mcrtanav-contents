@@ -1,17 +1,5 @@
 {
   "location": "guide",
   "name": "ガイド",
-  "contents": [
-    {
-      "path": "guide.md",
-      "type": "md",
-      "title": "guide",
-      "description": "",
-      "order": 999,
-      "lastUpdate": {
-        "by": "bafv4",
-        "at": "2025-09-03T22:29:06.875Z"
-      }
-    }
-  ]
+  "contents": []
 }
