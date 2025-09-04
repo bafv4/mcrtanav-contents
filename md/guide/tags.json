@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "初心者向け",
+    "description": "Minecraftを始めたばかりの初心者に適したガイド",
+    "color": "#4CAF50"
+  },
+  {
+    "id": 2,
+    "name": "中級者向け",
+    "description": "基本的な操作に慣れた中級者向けのガイド", 
+    "color": "#FF9800"
+  }
+]
