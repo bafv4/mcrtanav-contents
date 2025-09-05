@@ -46,17 +46,16 @@
       "version": [
         {
           "edition": "java",
-          "pattern": "range",
+          "pattern": "single",
           "versions": [
-            "1.0",
-            "1.21.3"
+            "1.16.1"
           ],
           "display": ""
         }
       ],
       "lastUpdate": {
         "by": "bafv4",
-        "at": "2025-09-05T11:48:28.799Z"
+        "at": "2025-09-05T12:09:09.644Z"
       }
     }
   ]
